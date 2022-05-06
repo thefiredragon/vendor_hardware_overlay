@@ -10,7 +10,7 @@
         <item>usb\\d</item>
         <item>rndis\\d</item>
     </string-array>
-        <integer name="config_screenBrightnessDim">13</integer>
+        <integer name="config_screenBrightnessDim">12</integer>
         <integer name="config_screenBrightnessSettingDefault">128</integer>
         <integer name="config_screenBrightnessSettingMaximum">255</integer>
         <integer name="config_screenBrightnessSettingMinimum">0</integer>
