@@ -57,6 +57,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-s5pro \
 	treble-overlay-lenovo-z5 \
 	treble-overlay-lg-g7 \
+	treble-overlay-lg-phoenix_lao_com-phoenix_sprout \
 	treble-overlay-lg-v40 \
 	treble-overlay-lg-velvet \
 	treble-overlay-lge-mfh505glm \
@@ -113,25 +114,25 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-op8-systemui \
 	treble-overlay-oppo-a54 \
 	treble-overlay-oppo-a54-systemui \
-	treble-overlay-oppo-peqm00 \
-	treble-overlay-oppo-peqm00-systemui \
+	treble-overlay-oppo-reno6-5g \
+	treble-overlay-oppo-reno6-5g-systemui \
 	treble-overlay-oppo-renopro2019 \
 	treble-overlay-oppo-renopro2019-systemui \
 	treble-overlay-oukitel-wp8pro \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
+	treble-overlay-realme-8-5g \
 	treble-overlay-realme-c2 \
 	treble-overlay-realme-c3 \
+	treble-overlay-realme-gtmasterexplorer \
+	treble-overlay-realme-gtmasterexplorer-systemui \
 	treble-overlay-realme-gtneo3 \
 	treble-overlay-realme-gtneo3-systemui \
 	treble-overlay-realme-narzo10a \
+	treble-overlay-realme-q2 \
+	treble-overlay-realme-q2-systemui \
 	treble-overlay-realme-q3 \
-	treble-overlay-realme-re513cl1 \
-	treble-overlay-realme-rmx2117 \
-	treble-overlay-realme-rmx2117-systemui \
-	treble-overlay-realme-rmx3366 \
-	treble-overlay-realme-rmx3366-systemui \
 	treble-overlay-realme-x2pro \
 	treble-overlay-samsung-S10pq \
 	treble-overlay-samsung-S10q \
@@ -141,6 +142,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a20s \
 	treble-overlay-samsung-a20s-systemui \
 	treble-overlay-samsung-a30 \
+	treble-overlay-samsung-a33 \
+	treble-overlay-samsung-a33-systemui \
 	treble-overlay-samsung-a40 \
 	treble-overlay-samsung-a50 \
 	treble-overlay-samsung-a51 \
@@ -154,6 +157,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a70 \
 	treble-overlay-samsung-a71 \
 	treble-overlay-samsung-a80 \
+	treble-overlay-samsung-a82xq \
+	treble-overlay-samsung-a82xq-systemui \
 	treble-overlay-samsung-a9 \
 	treble-overlay-samsung-d1q \
 	treble-overlay-samsung-d1q-systemui \
@@ -167,6 +172,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-m31 \
 	treble-overlay-samsung-m31-systemui \
 	treble-overlay-samsung-m31s \
+	treble-overlay-samsung-m31s-systemui \
 	treble-overlay-samsung-n9q \
 	treble-overlay-samsung-o1s \
 	treble-overlay-samsung-p3s \
@@ -183,8 +189,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-sec-ims \
 	treble-overlay-sharp-s2 \
 	treble-overlay-sony-J9110 \
+	treble-overlay-sony-SO-03L \
 	treble-overlay-sony-XZ3 \
 	treble-overlay-sony-pdx206 \
+	treble-overlay-sony-pdx206-kddi \
 	treble-overlay-sony-pdx213 \
 	treble-overlay-sony-pdx213-systemui \
 	treble-overlay-sprd-ims \
